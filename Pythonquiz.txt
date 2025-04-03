@@ -1,0 +1,85 @@
+Q:-Who developed Python Programming Language?
+a) Wick van Rossum
+b) Rasmus Lerdorf
+c) Guido van Rossum
+d) Niene Stom
+
+Q:-Is Python case sensitive when dealing with identifiers?
+a) no
+b) yes
+c) machine dependent
+d) none of the mentioned
+
+Q:-Is Python code compiled or interpreted?
+a) Python code is both compiled and interpreted
+b) Python code is neither compiled nor interpreted
+c) Python code is only compiled
+d) Python code is only interpreted
+
+Q:-Which of the following is the truncation division operator in Python?
+a) |
+b) //
+c) /
+d) %
+
+Q:-Which of the following functions is a built-in function in python?
+a) factorial()
+b) print()
+c) seed()
+d) sqrt()
+
+Q:-Which of the following is not a core data type in Python programming?
+a) Tuples
+b) Lists
+c) Class
+d) Dictionary
+
+Q:-Which one of the following is not a keyword in Python language?
+a) pass
+b) eval
+c) assert
+d) nonlocal
+
+Q:-To add a new element to a list we use which Python command?
+a) list1.addEnd(5)
+b) list1.addLast(5)
+c) list1.append(5)
+d) list1.add(5)
+
+Q:-Which of the following is a Python tuple?
+a) {1, 2, 3}
+b) {}
+c) [1, 2, 3]
+d) (1, 2, 3)
+
+Q:-What is output of print(math.pow(3, 2))?
+a) 9.0
+b) None
+c) 9
+d) None of the mentioned
+
+Q:-The process of pickling in Python includes ____________
+a) conversion of a Python object hierarchy into byte stream
+b) conversion of a datatable into a list
+c) conversion of a byte stream into Python object hierarchy
+d) conversion of a list into a datatable
+
+Q:-Which of the following is true for variable names in Python?
+a) underscore and ampersand are the only two special characters allowed
+b) unlimited length
+c) all private members must have leading and trailing underscores
+d) none of the mentioned
+
+Q:-Which of the following is the use of id() function in python?
+a) Every object doesn’t have a unique id
+b) Id returns the identity of the object
+c) All of the mentioned
+d) None of the mentioned
+
+Q:-Which module in the python standard library parses options received from the command line?
+a) getarg
+b) os
+c) main
+d) getopt
+
+    

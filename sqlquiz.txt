@@ -1,0 +1,84 @@
+Q:-What does SQL stand for?
+a) Structured Query Language
+b) Standard Query Language
+c) Simple Query Language
+d) Sequential Query Language
+
+Q:-Which of the following is NOT a valid keyword in SQL?
+a) SELECT
+b) DELETE
+c) WHERE
+d) INCLUDE
+
+Q:-What is the purpose of the SQL keyword “DISTINCT” in a SELECT statement?
+a) To retrieve unique values from a column
+b) To filter NULL values
+c) To delete duplicate records
+d) To sort the result set
+
+Q:-Which character is used to separate SQL statements in database systems?
+a) :
+b) %
+c) _
+d) ;
+
+Q:-Which of the following is a default join type?
+a) Right join
+b) Left join
+c) Inner join
+d) Outer join
+
+Q:-Which of the following command is used to create a database in SQL?
+a) MAKE
+b) CREATE
+c) INSERT
+d) DEVELOP
+
+Q:-Which SQL keyword is used to sort the data returned by a SELECT statement?
+a) Group
+b) Order
+c) Group By
+d) Order By
+
+Q:-The SQL LIKE operator is used in which of the following clause?
+a) Having
+b) Select
+c) Where
+d) Group by
+
+Q:-Which of the following does a database comprise of?
+a) Collection of rows
+b) Collection of tables
+c) Collection of columns
+d) Collection of data
+
+Q:-Which of the following operators are used to perform mathematical operations?
+a) Logical
+b) Comparison
+c) Arithmetic
+d) Bit-Wise
+
+Q:-The operator <> is used for which of the following comparison operation?
+a) Not Equal to
+b) Less than Equal to
+c) Greater than Equal to
+d) Equal to
+
+Q:-Which of the following operator is used to negate the meaning of the logical operator with which it is used?
+a) NOT
+b) OR
+c) AND
+d) NULL
+
+Q:-Which of the following operator is used to search a value between a range of values where the maximum and minimum values are specified?
+a) ALL
+b) LIKE
+c) IN
+d) BETWEEN
+
+Q:-Which of the following operator is used to search for the presence of a row in a specified table.
+a) NOT EXISTS
+b) EXISTS
+c) IF EXISTS
+d) IF NOT EXISTS
+                
